@@ -1,0 +1,9 @@
+.factory-plan-container {
+  position: relative;
+}
+
+.factory-plan-container > canvas {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
